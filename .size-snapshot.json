@@ -1,0 +1,12 @@
+{
+  "dist/distance-utils.js": {
+    "bundled": 2171,
+    "minified": 689,
+    "gzipped": 408
+  },
+  "dist/distance-utils.min.js": {
+    "bundled": 2171,
+    "minified": 689,
+    "gzipped": 408
+  }
+}
